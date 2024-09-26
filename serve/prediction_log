@@ -1,0 +1,2 @@
+{"request": {"PULocationID": 100, "DOLocationID": 102, "trip_distance": 30}, "response": {"prediction": {"duration": 7.231998825001949}, "model_version": "8a3db1cad7724bc5a9c1bd08ae3530eb"}}
+{"request": {"PULocationID": 100, "DOLocationID": 102, "trip_distance": 30}, "response": {"ride_id": "ride_xyz", "prediction": {"duration": 7.231998825001949}, "model_version": "8a3db1cad7724bc5a9c1bd08ae3530eb"}}
